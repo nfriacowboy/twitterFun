@@ -1,0 +1,13 @@
+{
+  "name": "TwitterRead",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "mongodb": "^2.2.9",
+    "twitter": "^1.4.0"
+  }
+}
